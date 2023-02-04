@@ -1,3 +1,6 @@
+/*
+ From a given string, count the total number of vowels.
+ */
 import java.util.Scanner;
 
 public class DayOne {
