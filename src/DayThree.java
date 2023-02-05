@@ -6,10 +6,7 @@ For example, if the input is "Hello", the output should be "olleH".
 
  */
 
-import com.sun.jdi.event.StepEvent;
-
 public class DayThree {
-
 
     public static void reverseString(){
         String s = "Hello";
