@@ -8,7 +8,7 @@ the Fibonacci sequence to that number or to the Nth number.
 public class DayTwo {
     public static void fibonacci(int n){
 
-        int firstNum = 1;
+        int firstNum = 0;
         int secondNum = 1;
         int iterateNum = 0;
 
