@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c3a8fffb-7beb-48ba-b6c9-1e76a0c4b827" name="Changes" comment="First Day">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DayTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DayTwo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +48,14 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DayThree">
+  <component name="RunManager" selected="Application.DayFour">
+    <configuration name="DayFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DayFour" />
+      <module name="ChatGPTProblems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DayThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DayThree" />
       <module name="ChatGPTProblems" />
@@ -66,6 +72,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DayFour" />
         <item itemvalue="Application.DayThree" />
         <item itemvalue="Application.DayTwo" />
       </list>
@@ -81,7 +88,8 @@
       <updated>1675394278124</updated>
       <workItem from="1675394279178" duration="754000" />
       <workItem from="1675492340804" duration="579000" />
-      <workItem from="1675577297962" duration="880000" />
+      <workItem from="1675577297962" duration="1194000" />
+      <workItem from="1675703739318" duration="1855000" />
     </task>
     <task id="LOCAL-00001" summary="First Day">
       <created>1675394612779</created>
