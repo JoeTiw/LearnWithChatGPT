@@ -48,7 +48,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DayFive">
+  <component name="RunManager" selected="Application.DaySix">
     <configuration name="DayFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DayFive" />
       <module name="ChatGPTProblems" />
@@ -58,6 +58,13 @@
     </configuration>
     <configuration name="DayFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DayFour" />
+      <module name="ChatGPTProblems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DaySix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DaySix" />
       <module name="ChatGPTProblems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,6 +86,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DaySix" />
         <item itemvalue="Application.DayFive" />
         <item itemvalue="Application.DayFour" />
         <item itemvalue="Application.DayThree" />
@@ -99,7 +107,7 @@
       <workItem from="1675577297962" duration="1194000" />
       <workItem from="1675703739318" duration="3538000" />
       <workItem from="1675739670681" duration="5521000" />
-      <workItem from="1675867379303" duration="660000" />
+      <workItem from="1675867379303" duration="3096000" />
     </task>
     <task id="LOCAL-00001" summary="First Day">
       <created>1675394612779</created>
